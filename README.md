@@ -18,5 +18,9 @@
 `php artisan key:generate`
 `php artisan storage:link`
 
+- Install packages for rendering CSS and JS files:
+`npm install`
+`npm run dev`
+
 - Run the migrations:
 `php artisan migrate`
